@@ -1,0 +1,18 @@
+{
+    "valid"     : "dut.rvfi_data_rob.valid",
+    "order"     : "dut.rvfi_data_rob.order",
+    "inst"      : "dut.rvfi_data_rob.inst",
+    "rs1_addr"  : "dut.rvfi_data_rob.rs1_s",
+    "rs2_addr"  : "dut.rvfi_data_rob.rs2_s",
+    "rs1_rdata" : "dut.rvfi_data_rob.rs1_v",
+    "rs2_rdata" : "dut.rvfi_data_rob.rs2_v",
+    "rd_addr"   : "dut.rvfi_data_rob.rd_s",
+    "rd_wdata"  : "dut.rvfi_data_rob.rd_wdata",
+    "pc_rdata"  : "dut.rvfi_data_rob.pc_rdata",
+    "pc_wdata"  : "dut.rvfi_data_rob.pc_wdata",
+    "mem_addr"  : "dut.rvfi_data_rob.mem_addr",
+    "mem_rmask" : "dut.rvfi_data_rob.mem_rmask",
+    "mem_wmask" : "dut.rvfi_data_rob.mem_wmask",
+    "mem_rdata" : "dut.rvfi_data_rob.mem_rdata",
+    "mem_wdata" : "dut.rvfi_data_rob.mem_wdata"
+}
